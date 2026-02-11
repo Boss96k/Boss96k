@@ -12,7 +12,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating solutions through code since 2022<br>
+📚 Currently learning Web Development, Java, and Python<br>
+🎯 Goals: Build scalable software solutions and grow as a developer<br>
+🎲 Fun fact: I enjoy debugging and improving code quality
+
 
 ###
 
